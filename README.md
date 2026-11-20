@@ -4,11 +4,11 @@
 
 Kankaku chigen is Higuchi Junso’s account of treating members of the Joseon diplomatic mission to Japan and exchanging medical questions with the Korean physician Jo Sung-su. This transcription follows the 1749 print in Kyoto University’s Fujikawa Collection. Letters of thanks, named case records, and written questions and answers document patients’ roles, ages, symptoms and care, supporting the study of early modern diplomacy and medical practice.
 
-## V0.1.0
+## V0.2.0
 
-25 幅逐幅定位。刊文自第 4 幅右面至第 23 幅右面，含題頁、序、書信、病例與筆談。書函、原封、後襯及墨題另列。本版為 AI 輔助初錄，疑字有原圖定位。
+25 幅逐幅定位。刊文自第 4 幅右面至第 23 幅右面，含題頁、序、書信、病例與筆談。書函、原封、後襯及墨題另列。比對未見初稿的本機 OCR 候選後，回圖裁定採用 10 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 25 scans are indexed. The print runs from scan 4 right to 23 right, covering the title leaf, preface, correspondence, case histories and written exchanges. The case, covers and copy-specific annotations are recorded separately. This is an AI-assisted initial transcription with source-image references for uncertain readings.
+All 25 scans are indexed. The print runs from scan 4 right to 23 right, covering the title leaf, preface, correspondence, case histories and written exchanges. The case, covers and copy-specific annotations are recorded separately. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 10 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001686/manifest.json",
     "manifest_sha256": "7447ccb42da3f2b5b888379e391dc2895aab42b70f0af997e293cfdda7aac1ce",
     "record_id": "RB00001686",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "韓客治驗（1749 年，京都大學 カ/200） / Kankaku chigen [Medical cases of the Korean mission]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -174,7 +174,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -257,7 +257,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -348,7 +348,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -416,7 +416,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "letters-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -501,7 +501,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "letters-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -567,7 +567,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "letters-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -659,7 +659,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "letters-and-cases",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -791,7 +791,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "case-records",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -882,8 +882,16 @@
           "side": "right",
           "column": 7,
           "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "candidates": [
+            "草"
+          ],
+          "note": "部分筆畫不清，原圖字形待核。",
+          "source_bbox": [
+            3200,
+            1350,
+            3450,
+            1580
+          ]
         }
       ],
       "observations": "右面：第七欄首字下部被圓形破缺切去，殘存草頭，承上「生甘」候讀「草」。第一欄「語」右有假名，前幅末「言」為相接正文。本文自此面的版心重新起葉碼。 左面：第二欄「白性」右方圓形破缺，二字可辨。此面外側版心葉碼近緣，殘影不補。正文旁有片假名與返點。"
@@ -903,7 +911,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1036,7 +1044,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "case-records",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1134,8 +1142,16 @@
           "side": "right",
           "column": 8,
           "context": "□",
-          "candidates": [],
-          "note": "部分筆畫不清，原圖字形待核。"
+          "candidates": [
+            "血（先前文意候選，原圖形體不符）"
+          ],
+          "note": "部分筆畫不清，原圖字形待核。",
+          "source_bbox": [
+            3055,
+            1440,
+            3270,
+            1820
+          ]
         },
         {
           "side": "right",
@@ -1162,8 +1178,16 @@
           "side": "right",
           "column": 8,
           "context": "蓄",
-          "candidates": [],
-          "note": "第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。"
+          "candidates": [
+            "血（先前文意候選，原圖形體不符）"
+          ],
+          "note": "第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。",
+          "source_bbox": [
+            3055,
+            1440,
+            3270,
+            1820
+          ]
         },
         {
           "side": "right",
@@ -1190,7 +1214,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1294,7 +1318,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "case-records",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1405,7 +1429,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "case-records",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1531,7 +1555,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "case-records",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1652,7 +1676,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "questions-and-answers",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1760,7 +1784,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "questions-and-answers",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1911,19 +1935,19 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "questions-and-answers",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "丁寧再三披玩曷勝忻感　僕海陸負程"
+              "text": "丁寧再三披玩曷勝忻感　僕海陸貪程"
             },
             {
               "text": "得免顛沛之患是所幸也"
             },
             {
-              "text": "示諭謹悉參葉之用非古也初自數"
+              "text": "示諭謹悉槩參葉之用非古也剏自數"
             },
             {
               "text": "十年來弊邦鄉曲亦多用之僕亦嘗因"
@@ -1932,7 +1956,7 @@
               "text": "俗用之而其味辛多甘小其氣溫而輕"
             },
             {
-              "text": "浮如產後感冒者假其辛甘而散之賴"
+              "text": "浮如產後感冒者假其辛甘而散之頼"
             },
             {
               "text": "其參力而不致重虛感風者感寒者和"
@@ -1956,7 +1980,7 @@
               "text": "有根液之上湊故酷猶肉桂之桂枝發"
             },
             {
-              "text": "中亦有補固不可比論於蘇葛之專"
+              "text": "中亦有補固不可比論於蘇葛之專一"
             },
             {
               "text": "於解表也其可用者產後發熱勞發感"
@@ -2035,7 +2059,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "questions-and-answers",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2157,7 +2181,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "questions-and-answers",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2181,7 +2205,7 @@
               "text": "見靑紋病重　驚風中寒中惡重病"
             },
             {
-              "text": "見黑紋痾病勞症內傷極重死症"
+              "text": "見黑紋□病勞症內傷極重死症"
             },
             {
               "text": "大盖紅黃色紋見者病易安靑紫色紋"
@@ -2223,7 +2247,7 @@
               "text": "活菴"
             },
             {
-              "text": "答壯牢者一貼重一兩一二錢作一貼"
+              "text": "答壮牢者一貼重一兩一二錢作一貼"
             },
             {
               "text": "虛弱者七八錢"
@@ -2234,18 +2258,27 @@
       ],
       "issues": [
         {
-          "side": "right",
-          "column": 7,
-          "context": "痾病",
-          "candidates": [],
-          "note": "右頁葉邊含版心部分字；第七欄「痾病」待核。末欄接左面。"
-        },
-        {
           "side": "left",
           "column": 7,
           "context": "牢",
           "candidates": [],
           "note": "左面書口紀葉二十三。尾欄「牢」待核。答者簽名分欄照錄。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□病",
+          "candidates": [
+            "痺",
+            "疳"
+          ],
+          "note": "保留未定字，該字可見兩層橫畫，左側包圍部不明。",
+          "source_bbox": [
+            3290,
+            1485,
+            3530,
+            1850
+          ]
         }
       ],
       "observations": "右面：右頁葉邊含版心部分字；第七欄「痾病」待核。末欄接左面。 左面：左面書口紀葉二十三。尾欄「牢」待核。答者簽名分欄照錄。"
@@ -2265,7 +2298,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "questions-and-answers",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2293,12 +2326,17 @@
             },
             {
               "text": "答生用"
-            },
-            {
-              "text": "樋口道與藏板"
             }
           ],
-          "extras": []
+          "extras": [
+            {
+              "type": "colophon",
+              "location": "第八欄下段刊記",
+              "text": "樋口道與藏板",
+              "column_anchor": 8,
+              "color": "black"
+            }
+          ]
         },
         {
           "side": "left",
@@ -2307,7 +2345,7 @@
         }
       ],
       "issues": [],
-      "observations": "右面：右面刊尾。煎字右上有朱色方記。書口附葉次。「煑」按字形錄入。 左面：後襯無正面刊文，僅見輕微透字與下緣破損。"
+      "observations": "右面：右面刊尾。煎字右上有朱色方記。書口附葉次。「煑」按字形錄入。 左面：後襯無正面刊文，僅見輕微透字與下緣破損。 左面下方斜印經對照是下一幅右面印記透影。"
     },
     {
       "image": 24,
@@ -2324,23 +2362,23 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "binding-or-copy-annotation",
-      "state": "initial-read",
+      "state": "targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [],
           "extras": [
             {
-              "type": "copy-annotation",
-              "location": "斜墨記",
-              "text": "二□藏持入本　七百五十 □",
+              "type": "seal",
+              "location": "斜藏印",
+              "text": "文淵堂卅八年　七百八□",
               "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
-              "location": "近墨記形",
-              "text": "十川",
+              "location": "斜藏印鄰側粗墨",
+              "text": "□",
               "column_anchor": null,
               "color": "unknown"
             }
@@ -2356,19 +2394,20 @@
         {
           "side": "right",
           "column": null,
-          "context": "斜墨記",
-          "candidates": [],
-          "note": "此處墨跡或構件不清，以□保留未定字。"
-        },
-        {
-          "side": "right",
-          "column": null,
-          "context": "",
-          "candidates": [],
-          "note": "後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。"
+          "context": "文淵堂卅八年　七百八□",
+          "candidates": [
+            "十"
+          ],
+          "note": "斜印尾字受墨點遮蔽。旁側粗墨也待辨。",
+          "source_bbox": [
+            3830,
+            2610,
+            4670,
+            3500
+          ]
         }
       ],
-      "observations": "右面：後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。 左面：後封裡補紙、下緣破損，無正面刊文。"
+      "observations": "右面：後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。 左面：後封裡補紙、下緣破損，無正面刊文。 斜藏印之外的粗墨獨立記錄，不併入印文。"
     },
     {
       "image": 25,

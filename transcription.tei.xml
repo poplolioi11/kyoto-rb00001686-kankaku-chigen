@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -631,6 +631,7 @@
             <ab type="layout">右面：第七欄首字下部被圓形破缺切去，殘存草頭，承上「生甘」候讀「草」。第一欄「語」右有假名，前幅末「言」為相接正文。本文自此面的版心重新起葉碼。 左面：第二欄「白性」右方圓形破缺，二字可辨。此面外側版心葉碼近緣，殘影不補。正文旁有片假名與返點。</ab>
             <ab type="transcription-issue" n="right:7">
               <quote>□</quote>
+              <seg type="candidate">草</seg>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
             </ab>
           </div>
@@ -795,6 +796,7 @@
             <ab type="layout">右面：第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。 左面：第三欄新案的「趙」比旁欄上抬一格。第四欄原刻「氷」照錄。第六欄「傷寒」之間偏右有橙色方標。正文旁有片假名與返點。</ab>
             <ab type="transcription-issue" n="right:8">
               <quote>□</quote>
+              <seg type="candidate">血（先前文意候選，原圖形體不符）</seg>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
             </ab>
             <ab type="transcription-issue" n="right:1">
@@ -811,6 +813,7 @@
             </ab>
             <ab type="transcription-issue" n="right:8">
               <quote>蓄</quote>
+              <seg type="candidate">血（先前文意候選，原圖形體不符）</seg>
               <note type="editorial">第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。</note>
             </ab>
             <ab type="transcription-issue" n="right:None">
@@ -1280,13 +1283,13 @@
         <div n="20" type="scan" subtype="questions-and-answers">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f20-r-c01">
-              <seg type="diplomatic-text">丁寧再三披玩曷勝忻感　僕海陸負程</seg>
+              <seg type="diplomatic-text">丁寧再三披玩曷勝忻感　僕海陸貪程</seg>
             </ab>
             <ab type="column" n="2" xml:id="f20-r-c02">
               <seg type="diplomatic-text">得免顛沛之患是所幸也</seg>
             </ab>
             <ab type="column" n="3" xml:id="f20-r-c03">
-              <seg type="diplomatic-text">示諭謹悉參葉之用非古也初自數</seg>
+              <seg type="diplomatic-text">示諭謹悉槩參葉之用非古也剏自數</seg>
             </ab>
             <ab type="column" n="4" xml:id="f20-r-c04">
               <seg type="diplomatic-text">十年來弊邦鄉曲亦多用之僕亦嘗因</seg>
@@ -1295,7 +1298,7 @@
               <seg type="diplomatic-text">俗用之而其味辛多甘小其氣溫而輕</seg>
             </ab>
             <ab type="column" n="6" xml:id="f20-r-c06">
-              <seg type="diplomatic-text">浮如產後感冒者假其辛甘而散之賴</seg>
+              <seg type="diplomatic-text">浮如產後感冒者假其辛甘而散之頼</seg>
             </ab>
             <ab type="column" n="7" xml:id="f20-r-c07">
               <seg type="diplomatic-text">其參力而不致重虛感風者感寒者和</seg>
@@ -1315,7 +1318,7 @@
               <seg type="diplomatic-text">有根液之上湊故酷猶肉桂之桂枝發</seg>
             </ab>
             <ab type="column" n="4" xml:id="f20-l-c04">
-              <seg type="diplomatic-text">中亦有補固不可比論於蘇葛之專</seg>
+              <seg type="diplomatic-text">中亦有補固不可比論於蘇葛之專一</seg>
             </ab>
             <ab type="column" n="5" xml:id="f20-l-c05">
               <seg type="diplomatic-text">於解表也其可用者產後發熱勞發感</seg>
@@ -1457,7 +1460,7 @@
               <seg type="diplomatic-text">見靑紋病重　驚風中寒中惡重病</seg>
             </ab>
             <ab type="column" n="7" xml:id="f22-r-c07">
-              <seg type="diplomatic-text">見黑紋痾病勞症內傷極重死症</seg>
+              <seg type="diplomatic-text">見黑紋□病勞症內傷極重死症</seg>
             </ab>
             <ab type="column" n="8" xml:id="f22-r-c08">
               <seg type="diplomatic-text">大盖紅黃色紋見者病易安靑紫色紋</seg>
@@ -1487,7 +1490,7 @@
               <seg type="diplomatic-text">活菴</seg>
             </ab>
             <ab type="column" n="7" xml:id="f22-l-c07">
-              <seg type="diplomatic-text">答壯牢者一貼重一兩一二錢作一貼</seg>
+              <seg type="diplomatic-text">答壮牢者一貼重一兩一二錢作一貼</seg>
             </ab>
             <ab type="column" n="8" xml:id="f22-l-c08">
               <seg type="diplomatic-text">虛弱者七八錢</seg>
@@ -1495,13 +1498,15 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：右頁葉邊含版心部分字；第七欄「痾病」待核。末欄接左面。 左面：左面書口紀葉二十三。尾欄「牢」待核。答者簽名分欄照錄。</ab>
-            <ab type="transcription-issue" n="right:7">
-              <quote>痾病</quote>
-              <note type="editorial">右頁葉邊含版心部分字；第七欄「痾病」待核。末欄接左面。</note>
-            </ab>
             <ab type="transcription-issue" n="left:7">
               <quote>牢</quote>
               <note type="editorial">左面書口紀葉二十三。尾欄「牢」待核。答者簽名分欄照錄。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>□病</quote>
+              <seg type="candidate">痺</seg>
+              <seg type="candidate">疳</seg>
+              <note type="editorial">保留未定字，該字可見兩層橫畫，左側包圍部不明。</note>
             </ab>
           </div>
         </div>
@@ -1532,41 +1537,39 @@
             <ab type="column" n="8" xml:id="f23-r-c08">
               <seg type="diplomatic-text">答生用</seg>
             </ab>
-            <ab type="column" n="9" xml:id="f23-r-c09">
-              <seg type="diplomatic-text">樋口道與藏板</seg>
+            <ab type="page-feature" subtype="colophon" corresp="#f23-r-c08">
+              <label>第八欄下段刊記</label>
+              <seg type="diplomatic-text" rend="black">樋口道與藏板</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
             <ab type="no-transcribed-text" />
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：右面刊尾。煎字右上有朱色方記。書口附葉次。「煑」按字形錄入。 左面：後襯無正面刊文，僅見輕微透字與下緣破損。</ab>
+            <ab type="layout">右面：右面刊尾。煎字右上有朱色方記。書口附葉次。「煑」按字形錄入。 左面：後襯無正面刊文，僅見輕微透字與下緣破損。 左面下方斜印經對照是下一幅右面印記透影。</ab>
           </div>
         </div>
         <pb n="24" facs="#f24" />
         <div n="24" type="scan" subtype="binding-or-copy-annotation">
           <div type="page-face" n="right">
-            <ab type="page-feature" subtype="copy-annotation">
-              <label>斜墨記</label>
-              <seg type="diplomatic-text" rend="unknown">二□藏持入本　七百五十 □</seg>
+            <ab type="page-feature" subtype="seal">
+              <label>斜藏印</label>
+              <seg type="diplomatic-text" rend="unknown">文淵堂卅八年　七百八□</seg>
             </ab>
             <ab type="page-feature" subtype="copy-annotation">
-              <label>近墨記形</label>
-              <seg type="diplomatic-text" rend="unknown">十川</seg>
+              <label>斜藏印鄰側粗墨</label>
+              <seg type="diplomatic-text" rend="unknown">□</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
             <ab type="no-transcribed-text" />
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。 左面：後封裡補紙、下緣破損，無正面刊文。</ab>
+            <ab type="layout">右面：後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。 左面：後封裡補紙、下緣破損，無正面刊文。 斜藏印之外的粗墨獨立記錄，不併入印文。</ab>
             <ab type="transcription-issue" n="right:None">
-              <quote>斜墨記</quote>
-              <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:None">
-              <quote />
-              <note type="editorial">後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。</note>
+              <quote>文淵堂卅八年　七百八□</quote>
+              <seg type="candidate">十</seg>
+              <note type="editorial">斜印尾字受墨點遮蔽。旁側粗墨也待辨。</note>
             </ab>
           </div>
         </div>

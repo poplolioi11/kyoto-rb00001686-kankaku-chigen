@@ -4,7 +4,7 @@ message: If you use this transcription, please cite the dataset version and the 
 title: '韓客治驗（1749 年，京都大學 カ/200） / Kankaku chigen [Medical cases of the Korean mission]:
   Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

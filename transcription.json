@@ -1,0 +1,2400 @@
+{
+  "metadata": {
+    "title": "韓客治驗",
+    "catalogue_title": "韓客治験",
+    "roman_title": "Kankaku chigen",
+    "author": "樋口道與（淳叟）",
+    "historical_contributor": "趙崇壽（署活菴；朝鮮醫官）",
+    "date": "寛延二年（1749）刊，館方以刊年著錄。",
+    "location": "日本京都（現藏）；浪華（書題署地）",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "カ/200",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001686",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "樋口道與（淳叟）紀錄朝鮮通信使一行赴日的個別就醫情形。卷中有朝鮮方面致謝書、具名病例及日醫樋口與朝鮮醫官趙崇壽的筆談。全面定位京都大學富士川文庫底本，不把異本或既有研究引文當底本替字。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001686/manifest.json",
+    "manifest_sha256": "7447ccb42da3f2b5b888379e391dc2895aab42b70f0af997e293cfdda7aac1ce",
+    "record_id": "RB00001686",
+    "edition": "0.1.0",
+    "catalogue_main_scope": null,
+    "version": "0.1.0",
+    "dataset_title": "韓客治驗（1749 年，京都大學 カ/200） / Kankaku chigen [Medical cases of the Korean mission]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "11dda6094f792a6d4eb9109841d8761094f63c966a600402da811fa34abb5167",
+      "bytes": 217775,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "函面題籤",
+              "text": "韓客治驗　一冊",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：藍色函套合起，量尺與色標在函外。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "91dee37c9ef56aaaf3bc5e2f9a5e754b0d7fe399da953f4c73f78a2c733a544b",
+      "bytes": 257556,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "函面題籤",
+              "text": "韓客治驗　一冊",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "函背直籤",
+              "text": "韓客治驗　一冊",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "函背館籤",
+              "text": "富士川本　カ　200",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：函套打開，函面重見第一幅的題籤；中央為函背。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "da05a14a7ba4d65bc5a7d4e2294358398991bf4f11c16f8f8c210db854ed589d",
+      "bytes": 225335,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "原封題籤",
+              "text": "□客治驗　全",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面右上館籤",
+              "text": "富士川本　カ　200",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "原封題籤",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "單幅：原封題籤首字缺，依實際殘形留□；紙面有破洞與補紙，從第四幅開始錄刊文。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "a59d2a845f2ffdbbd742546f02c9d78d2c2f9c4fd67f2bb44b79bef643b42b7e",
+      "bytes": 301424,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "浪華　樋口淳叟著"
+            },
+            {
+              "text": "韓客治驗"
+            },
+            {
+              "text": "寛延二巳五月　藏版"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "韓客治驗序"
+            },
+            {
+              "text": "凡考地勢者治病之一端也所"
+            },
+            {
+              "text": "謂異法方宜是也樋口氏奧之"
+            },
+            {
+              "text": "津輕之人也壯年行業於攝之"
+            },
+            {
+              "text": "浪華而有功矣益致考于地勢"
+            },
+            {
+              "text": "者乎延享戊辰之夏韓土通信"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "上方橢圓登錄章",
+              "text": "184122　大正7.3.31",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "內側長方朱印",
+              "text": "富士川游寄贈",
+              "column_anchor": 6,
+              "color": "red"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "奧",
+          "candidates": [],
+          "note": "上方方朱印及右下一枚篆朱印留定位未釋。原刊密訓點、返讀符號、小片假名及版心題未逐符編碼。序第三欄「奧」保留原讀。"
+        }
+      ],
+      "observations": "右面：見返し，中欄大題。第一、三欄各有兩組上下分置的文字。「寛延二巳五月」依原刊省干字形轉錄。 左面：上方方朱印及右下一枚篆朱印留定位未釋。原刊密訓點、返讀符號、小片假名及版心題未逐符編碼。序第三欄「奧」保留原讀。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "eb4d3462663fcd74373c2fbaf5049ee74abb064532cf00b76187c665d7311102",
+      "bytes": 306955,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "使來聘彼東覲之際留在攝之"
+            },
+            {
+              "text": "韓人有罹危篤之病者依"
+            },
+            {
+              "text": "官命治之雖症危於累卵用藥"
+            },
+            {
+              "text": "而安矣嗣韓客有病者悉求治"
+            },
+            {
+              "text": "矣桑韓之人雖起居飲食不同"
+            },
+            {
+              "text": "而受病之因內傷外感無以大"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "異矣樋口氏善考其異同施治"
+            },
+            {
+              "text": "悉如桴鼓之應信使自東都歸"
+            },
+            {
+              "text": "感其治功以幣謝之非但樋口"
+            },
+            {
+              "text": "氏之譽卽本邦醫家之名聞也"
+            },
+            {
+              "text": "故以其治驗欲及梓就予請序"
+            },
+            {
+              "text": "予曰幸宦人有所送之謝辭以"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "覲",
+          "candidates": [],
+          "note": "第一欄放大可辨「覲」左從堇；「留」原字貌近畱。第二欄「罹」字構略異，待核。各欄細小返點與片假名未逐符編碼。右版心題為「韓客治驗」。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "留",
+          "candidates": [],
+          "note": "第一欄放大可辨「覲」左從堇；「留」原字貌近畱。第二欄「罹」字構略異，待核。各欄細小返點與片假名未逐符編碼。右版心題為「韓客治驗」。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "罹",
+          "candidates": [],
+          "note": "第一欄放大可辨「覲」左從堇；「留」原字貌近畱。第二欄「罹」字構略異，待核。各欄細小返點與片假名未逐符編碼。右版心題為「韓客治驗」。"
+        }
+      ],
+      "observations": "右面：第一欄放大可辨「覲」左從堇；「留」原字貌近畱。第二欄「罹」字構略異，待核。各欄細小返點與片假名未逐符編碼。右版心題為「韓客治驗」。 左面：第二欄「桴」可辨木旁。第六欄「宦」原圖宀下似臣。細小返點、訓點與片假名未逐符編碼。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "6fe00abd9c5d256aec6d6daed92b57e0e4ae41fd9420ffbb41603be5ce900355",
+      "bytes": 276161,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "preface-and-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "此題于卷首云"
+            },
+            {
+              "text": "寛延二己巳三月"
+            },
+            {
+              "text": "田中牧齋素行甫記"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "自藝州鎌刈贈來書翰"
+            },
+            {
+              "text": "正騎舡格軍致傷於火藥者"
+            },
+            {
+              "text": "症情危重非但渠之自分必"
+            },
+            {
+              "text": "死舟中人莫不危之而專賴"
+            },
+            {
+              "text": "足下往來診病隨症投藥以至"
+            },
+            {
+              "text": "於起死囬生此外諸舡沙格"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "序收尾。署名左兩枚黑色篆印留定位未釋；淡字為透印。訓點未逐符編碼。"
+        }
+      ],
+      "observations": "右面：序收尾。署名左兩枚黑色篆印留定位未釋；淡字為透印。訓點未逐符編碼。 左面：第三欄「渠」、第六欄「囬」為原形現讀。大字「舟」「舡」各依原形保留。卷序左版心「三」，訓點未逐符編碼。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "f3be6f4580cb88ffcda0ec34f6eaf547cf759bcfdc47517a1209398899fd84bb",
+      "bytes": 278601,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "letters-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "中病者亦多而并皆救護俱"
+            },
+            {
+              "text": "得復常一行上下孰不感歎"
+            },
+            {
+              "text": "三使道到大坂聞此報俾即致"
+            },
+            {
+              "text": "謝而因行期卒迫未果趁即"
+            },
+            {
+              "text": "舉行到鎌刈後更爲告達自"
+            },
+            {
+              "text": "三行次各有所送深致報謝之"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "意幸"
+            },
+            {
+              "text": "足下領之"
+            },
+            {
+              "text": "戊辰七月日上上官"
+            },
+            {
+              "text": "浪華醫士樋口道與公"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "日期下署名右列",
+              "text": "子淳　朴僉知　印",
+              "column_anchor": 4,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "日期下署名中列",
+              "text": "季深　玄僉知　印",
+              "column_anchor": 4,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "日期下署名左列",
+              "text": "大年　洪僉知　印",
+              "column_anchor": 4,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：「即」字右下從卩，左粘合筆形異於05L的「卽」，暫分錄。右版心韓客治驗、三；訓點未逐符編碼。 左面：三署名中個人字號為小字，每組以「印」收尾，原圖文字「印」不是實體印章。左版心韓客治驗、四；訓點未逐符編碼。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "f2b86da1d99f6fad5d3919c8df71ca46756bd50548a8d59b720be55a01f0451c",
+      "bytes": 282154,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "letters-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "正使道所送藥果伍立大口魚"
+            },
+            {
+              "text": "參尾扇子貳柄黄筆貳柄眞墨"
+            },
+            {
+              "text": "貳笏"
+            },
+            {
+              "text": "副使道所送扇子貳柄石魚貳"
+            },
+            {
+              "text": "束"
+            },
+            {
+              "text": "從事道所送扇子貳柄石魚貳"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "束"
+            },
+            {
+              "text": "延享四年夏五月承"
+            },
+            {
+              "text": "官命治韓客於無尻川舡中韓"
+            },
+            {
+              "text": "客始疑本邦醫藥予爲之辨曰"
+            },
+            {
+              "text": "本邦醫流皆軒岐之徒也不曾"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第三欄「笏」取竹下勿形，供覆核。第二欄「黄」原字中部非下開廿。右版心韓客治驗、四；訓點未逐符編碼。 左面：第二欄原圖明作「延享四年」，與本冊序及書翰的「戊辰」紀年不同。第四欄「予」是同欄下縮小刻字。右側兩欄間有空，透印不入原文。訓點未逐符編碼。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "5128f8f3f0be0f730c295aedbbfec4d7b482f3ccceffb573bcda13c4dbda4c74",
+      "bytes": 306261,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "letters-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "出張劉李朱之藩圍也藥品選"
+            },
+            {
+              "text": "用國産之佳者凡人參五味子"
+            },
+            {
+              "text": "之類用　貴國之産地黃當歸"
+            },
+            {
+              "text": "黃連之類用本邦之産其餘品"
+            },
+            {
+              "text": "選用中華及諸番之佳者診察"
+            },
+            {
+              "text": "法無他以望聞問切爲要其外"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "外側版心葉碼",
+              "text": "五",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "按腹候背又考口鼻之氣息以"
+            },
+            {
+              "text": "三部九候分六淫七情之病藥"
+            },
+            {
+              "text": "劑大小煎法多少服法緩急則"
+            },
+            {
+              "text": "以貴邦所撰東醫寶鑑爲規矩"
+            },
+            {
+              "text": "然則何疑之有矣好生之士臨"
+            },
+            {
+              "text": "病生猶豫怠修養必有妨生路"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第三欄「用」與「貴」之間原刻空一格。第六欄「無」右方有圓形缺口，字仍可辨。正文旁有片假名與返點。 左面：第二欄「部」與第一欄「腹」相鄰處有圓形破缺，腹字仍可辨。外側邊緣磨損，葉碼殘；不依頁序補碼。正文旁有片假名與返點。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "334abb911785834428b41c0cad791d04b53a75406d0b5f36c2d0124b3d5c1256",
+      "bytes": 271608,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "letters-and-cases",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "云爾韓客終解疑請治療其治"
+            },
+            {
+              "text": "驗如㔫"
+            },
+            {
+              "text": "浪華醫士樋口道與識"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "外側版心葉碼",
+              "text": "六",
+              "column_anchor": 3,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "治驗"
+            },
+            {
+              "text": "朝鮮信使隨扈下官金福才年三十有八"
+            },
+            {
+              "text": "主火藥四月二十六日於浪華客館本"
+            },
+            {
+              "text": "願寺舂火藥時火稡生而福才頭面胸"
+            },
+            {
+              "text": "腹焦爛後經十餘日於無尻川舡中診"
+            },
+            {
+              "text": "之頭面及毛髮共燒爛胸腹手臂皮脫"
+            },
+            {
+              "text": "水流日夜痛悶絕飲食僅以蕎麥麪投"
+            },
+            {
+              "text": "白湯服之日夜兩三度舌縮而不得言"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "㔫",
+          "candidates": [],
+          "note": "第二欄第三字刻為「㔫」形，右下屈筆，讀作「左」，待覆核字形。第三欄署名下部褪淡，「識」可辨。署名左側上下各一枚方形黑色篆印，印文待核。上方有圓形破缺，其餘淡字為透頁。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "識",
+          "candidates": [],
+          "note": "第二欄第三字刻為「㔫」形，右下屈筆，讀作「左」，待覆核字形。第三欄署名下部褪淡，「識」可辨。署名左側上下各一枚方形黑色篆印，印文待核。上方有圓形破缺，其餘淡字為透頁。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "鮮信",
+          "candidates": [],
+          "note": "首欄篇名降低。第二欄「鮮信」右側有圓形破缺，二字仍可辨。第四欄「稡」左禾右卒照錄，「舂」的下半部刻似日，待覆核。第七欄麥旁字先錄「麪」，確切異體待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "稡",
+          "candidates": [],
+          "note": "首欄篇名降低。第二欄「鮮信」右側有圓形破缺，二字仍可辨。第四欄「稡」左禾右卒照錄，「舂」的下半部刻似日，待覆核。第七欄麥旁字先錄「麪」，確切異體待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "舂",
+          "candidates": [],
+          "note": "首欄篇名降低。第二欄「鮮信」右側有圓形破缺，二字仍可辨。第四欄「稡」左禾右卒照錄，「舂」的下半部刻似日，待覆核。第七欄麥旁字先錄「麪」，確切異體待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "麪",
+          "candidates": [],
+          "note": "首欄篇名降低。第二欄「鮮信」右側有圓形破缺，二字仍可辨。第四欄「稡」左禾右卒照錄，「舂」的下半部刻似日，待覆核。第七欄麥旁字先錄「麪」，確切異體待核。"
+        }
+      ],
+      "observations": "右面：第二欄第三字刻為「㔫」形，右下屈筆，讀作「左」，待覆核字形。第三欄署名下部褪淡，「識」可辨。署名左側上下各一枚方形黑色篆印，印文待核。上方有圓形破缺，其餘淡字為透頁。 左面：首欄篇名降低。第二欄「鮮信」右側有圓形破缺，二字仍可辨。第四欄「稡」左禾右卒照錄，「舂」的下半部刻似日，待覆核。第七欄麥旁字先錄「麪」，確切異體待核。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "0fc76d3a2f0a5a06300e65a93b98cd9186ceecd0b7dbb8858baa9129f10e0789",
+      "bytes": 287471,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "case-records",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "語惡臭不可近六脉虛細大便祕結小"
+            },
+            {
+              "text": "水澁少其形狀不堪見是火藥猛烈之"
+            },
+            {
+              "text": "毒氣攻裏然也因投外科正宗燒火門"
+            },
+            {
+              "text": "四順清凉飲每貼十錢與二十餘貼瘍"
+            },
+            {
+              "text": "醫楢林氏加外治火毒粗退而後以黃"
+            },
+            {
+              "text": "耆當歸芎藭芍藥連翹黃芩黃連生甘"
+            },
+            {
+              "text": "□各等分與至百有餘貼皮肉收歛毛"
+            },
+            {
+              "text": "髮長飲食起居復常"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "外側版心葉碼",
+              "text": "一",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "副使下舡將鄭興邦年三十有五形瘦色"
+            },
+            {
+              "text": "白性急有病而數月不愈因乞治診之"
+            },
+            {
+              "text": "而問其故彼曰今歲仲春釜山海發帆"
+            },
+            {
+              "text": "項鼻孔生腫核出沒無時頭額煩熱兩"
+            },
+            {
+              "text": "太陽穴重痛心下痞塞時發痛痰咳上"
+            },
+            {
+              "text": "氣酒食不美舌上白胎大便結燥小便"
+            },
+            {
+              "text": "赤澁六脉洪數其生平虛弱而疑惑多"
+            },
+            {
+              "text": "在釜山海時有思慮而不決後得此病"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "右面：第七欄首字下部被圓形破缺切去，殘存草頭，承上「生甘」候讀「草」。第一欄「語」右有假名，前幅末「言」為相接正文。本文自此面的版心重新起葉碼。 左面：第二欄「白性」右方圓形破缺，二字可辨。此面外側版心葉碼近緣，殘影不補。正文旁有片假名與返點。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "74261bd6f930bad9d3fd4015cebe65b0740c2da26db1f2a0eb34c544aa30c773",
+      "bytes": 293651,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "case-records",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "云云是肝經貯鬱熱肝火熾盛脾氣抑"
+            },
+            {
+              "text": "鬱而肺爲鬱火所薰蒸之症也以河間"
+            },
+            {
+              "text": "防風通聖散與三十餘貼諸症平安後"
+            },
+            {
+              "text": "與補中益氣湯調理而全愈"
+            },
+            {
+              "text": "正使騎舡中官金致永年四十有餘四月"
+            },
+            {
+              "text": "下旬寒熱往來朝輕夕重絕穀僅以蕎"
+            },
+            {
+              "text": "麥麪投白湯用之日兩三度經數日然"
+            },
+            {
+              "text": "故形體昏倦而懶言語眩暈上氣起居"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "外側版心葉碼",
+              "text": "二",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "不便腰腿酸痛不能屈伸脉浮大無力"
+            },
+            {
+              "text": "自汗患人言烈風日大醉臥舡樓後得"
+            },
+            {
+              "text": "此病云云　予診之曰古人所謂酒風是"
+            },
+            {
+              "text": "也致永拍掌嘆曰曩於客館韓醫某既"
+            },
+            {
+              "text": "診之曰是酒風病也謹修養云而赴東"
+            },
+            {
+              "text": "都即公之所言與韓醫之言同一也深"
+            },
+            {
+              "text": "感穪伏乞服藥予不忍辭以補中益氣"
+            },
+            {
+              "text": "湯去當歸加芍藥合四苓散與十餘貼"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 5,
+          "context": "正",
+          "candidates": [],
+          "note": "第五欄新案的「正」比旁欄上抬一格。第七欄「麪」左方有弧形破缺，該字異體待核，可與第十幅左頁對看。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "麪",
+          "candidates": [],
+          "note": "第五欄新案的「正」比旁欄上抬一格。第七欄「麪」左方有弧形破缺，該字異體待核，可與第十幅左頁對看。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "酒",
+          "candidates": [],
+          "note": "第五欄「酒」右有一處橙色方標。第七欄「穪」左見禾旁，右部字形待核。外側版心葉碼近外緣不全，不補碼。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "穪",
+          "candidates": [],
+          "note": "第五欄「酒」右有一處橙色方標。第七欄「穪」左見禾旁，右部字形待核。外側版心葉碼近外緣不全，不補碼。"
+        }
+      ],
+      "observations": "右面：第五欄新案的「正」比旁欄上抬一格。第七欄「麪」左方有弧形破缺，該字異體待核，可與第十幅左頁對看。 左面：第五欄「酒」右有一處橙色方標。第七欄「穪」左見禾旁，右部字形待核。外側版心葉碼近外緣不全，不補碼。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "771a74f974d7efe4ac34112ef6d655e3b1ea3303a8b973dac58a3505db459cfb",
+      "bytes": 283041,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "case-records",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "病愈後正衣冠謝活命"
+            },
+            {
+              "text": "從事舡官人金守昌年三十有餘形瘦色"
+            },
+            {
+              "text": "黑平生嗜酒肉五月上旬痰咳而吐出"
+            },
+            {
+              "text": "紫黑塊血日夜無度脉弦數精神盛也"
+            },
+            {
+              "text": "爲鬱火與藥數貼無寸効又犀角地黃"
+            },
+            {
+              "text": "湯加貝母紫菀之類與之雖少愈吐血"
+            },
+            {
+              "text": "不止患人倦藥無効謹按古人每治溢"
+            },
+            {
+              "text": "血蓄□必先以下藥下之因以桃仁承"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "外側版心葉碼",
+              "text": "三",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "氣湯五貼瀉下五六度吐血止後四物"
+            },
+            {
+              "text": "湯加黃連解餘熱而復常"
+            },
+            {
+              "text": "趙必善正使騎舡官人也年四十餘五月"
+            },
+            {
+              "text": "上旬於舡上發寒熱甚如氷炭往來無"
+            },
+            {
+              "text": "時頭痛惡心口苦不食舌黃胎譫言妄"
+            },
+            {
+              "text": "語六脉弦數爲傷寒少陽陽明症與小"
+            },
+            {
+              "text": "柴胡湯合黃連解毒湯六貼熱解飲食"
+            },
+            {
+              "text": "漸進口渴自汗時時惡風以補藥調理"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "外側版心葉碼",
+              "text": "四",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "活",
+          "candidates": [],
+          "note": "第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "藥無効",
+          "candidates": [],
+          "note": "第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "溢",
+          "candidates": [],
+          "note": "第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "蓄",
+          "candidates": [],
+          "note": "第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "血",
+          "candidates": [],
+          "note": "第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。"
+        }
+      ],
+      "observations": "右面：第一欄「活」右側有朱筆弧線。第七欄「藥無効」右側有朱筆弧線和橙色方標，欄末「溢」有橙色方標遮住左下，右旁仍可辨。第八欄「蓄」下字未定，文意候選「血」，原圖形有交叉筆畫，待辨。 左面：第三欄新案的「趙」比旁欄上抬一格。第四欄原刻「氷」照錄。第六欄「傷寒」之間偏右有橙色方標。正文旁有片假名與返點。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "59f45dd5f97054cd8286968da47c3bc88e870fba01e50312624c58dadf58b9d3",
+      "bytes": 272670,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "case-records",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "告平愈"
+            },
+            {
+              "text": "徐重鼎副使騎舡官人也年四旬形肥色"
+            },
+            {
+              "text": "黑性沈重嗜酒肉五月中旬患赤痢晝"
+            },
+            {
+              "text": "夜更衣數十行彼自朝鮮俗間所傳之"
+            },
+            {
+              "text": "用治痢單方藥數日無藥効却而加病"
+            },
+            {
+              "text": "勢因乞服藥診之六脉沈數有力裡急"
+            },
+            {
+              "text": "後重腹中絞痛手足沈重飲食間嘔吐"
+            },
+            {
+              "text": "小便赤澁投不換金正氣散加木香檳"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "外側版心葉碼",
+              "text": "四",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "榔子枳實姜炒黃連與之三劑而痢止"
+            },
+            {
+              "text": "平復"
+            },
+            {
+              "text": "劉尚弼副使下舡中官年四十有九形瘦"
+            },
+            {
+              "text": "色黑咳嗽聲重內熱甚每咳兩腸下弔"
+            },
+            {
+              "text": "痛夜不能安眠故形體勞飲食減少呼"
+            },
+            {
+              "text": "吸喘息大便祕六脉洪滑或數與二陳"
+            },
+            {
+              "text": "湯加天南星黃連梔子枳實貝母與數"
+            },
+            {
+              "text": "貼全瘳"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "外側版心題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第二欄新案抬頭；姓名第三字刻如「鼎」。第八欄「換」有橙色方標遮住上部，扌及右下可辨，待覆核。 左面：第三欄新案抬頭。第四欄按原刻錄「腸」及「弔」，「腸」右旁呈昜形，待覆核。第二欄下後半有不成字的墨痕，淡字多為透頁。外側版心葉碼近緣，殘影不補。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "12da8e91711046e06f7bbdcc6220eeb81f5a68707b5f0a3602d56b949024cea0",
+      "bytes": 285923,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "case-records",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "金漢傑朴以平各從事舡官人也五月下"
+            },
+            {
+              "text": "浣於舡上爲漆工不勝漆毒發漆疹爲"
+            },
+            {
+              "text": "腫痒而后潰爛苦痛不常手足腰腿皆"
+            },
+            {
+              "text": "然行步艱難被人扶洗藥膏藥共無寸"
+            },
+            {
+              "text": "効因乞治以薄苛二斤黃連半斤黃芩"
+            },
+            {
+              "text": "黃蘗各十兩水煎候冷而洗淨漆瘡而"
+            },
+            {
+              "text": "后以韭汁調敷三白散各兩度悉愈"
+            },
+            {
+              "text": "金千云從事舡下官發漆疹頭面腫眼目"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "五",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "塞及唇寒熱往來大小便祕澁六脉浮"
+            },
+            {
+              "text": "大數腰背疼痛乞藥荆防敗毒散一劑"
+            },
+            {
+              "text": "煎頓服微汗安漆疹從瘳"
+            },
+            {
+              "text": "金再齋正使騎舡中官年五十有六五月"
+            },
+            {
+              "text": "下旬感冒風寒寒熱往來頭痛口苦舌"
+            },
+            {
+              "text": "白胎四肢煩疼飲食不入自汗六脉浮"
+            },
+            {
+              "text": "大無力爲勞力感寒與補中益氣湯加"
+            },
+            {
+              "text": "葛根芍藥敷貼而諸症減半飲食漸進"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "六",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：第1欄「金漢傑」的傑取目前可見的左人旁及右下木形；待覆核。第5欄「薄苛」原圖第二字右下有口，依可見字形錄苛，候核。薄字右側有朱筆，次字右側見色斑；出現訓點的細小字暫不逐符錄。 右面：版心外緣磨損，末字原圖右半不全。第1、8欄姓氏抬頭。 左面：第7欄補、中交界之右有紅色方塊，可讀。題名外緣及葉次左側不全。第4欄姓氏抬頭。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p16",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00016_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "f581e16ae80c47bdedc547466a6e3fea21df0f231e976cdd7b57ce39ef334697",
+      "bytes": 280573,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "case-records",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "以雞肉和粥連日食之痰咳上衝覺煩"
+            },
+            {
+              "text": "悶因投香砂六君子湯加山査子芍藥"
+            },
+            {
+              "text": "貝母生姜自然汗數劑完愈"
+            },
+            {
+              "text": "郭通起副使卜舡中官年七十餘形肥色"
+            },
+            {
+              "text": "黑六月上浣左膝以下至足底如斗腫"
+            },
+            {
+              "text": "起疼痛啼泣而坐卧不安飲食不入肌"
+            },
+            {
+              "text": "膚煩熱六脉沈滑或數中焦澁痰下焦"
+            },
+            {
+              "text": "澁尤多也與除澁湯十貼足腫半減以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "六",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "順氣劑調理告平安"
+            },
+            {
+              "text": "金順平從事騎舡官人也年三十九形肥"
+            },
+            {
+              "text": "色黑有鬱滯六月上旬腰背痛間四肢"
+            },
+            {
+              "text": "柔弱無力咳嗽時時吐出塊血脉細數"
+            },
+            {
+              "text": "以當歸芍藥黃連貝母黃芩半夏茯苓"
+            },
+            {
+              "text": "各等分爲劑與三劑諸症愈吐血未止"
+            },
+            {
+              "text": "以前方煎臨服加童便一巵服五貼復"
+            },
+            {
+              "text": "常"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "七",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "卜舡",
+          "candidates": [],
+          "note": "第4欄「卜舡」的第一字待核，放大圖目前可見立豎與右側短畫。第7、8欄以澁錄疊止形。首欄和字上方見紅色方塊，可讀。版心收口磨損。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "一巵",
+          "candidates": [],
+          "note": "第4欄塊字有小紅方塊覆住左側，右部可辨。第7欄童字右側見紅方塊，「一巵」第二字待核，原圖頂部斜畫細短。末欄只印常，欄下淺灰為透印。版心外緣不全。"
+        }
+      ],
+      "observations": "右面：第4欄「卜舡」的第一字待核，放大圖目前可見立豎與右側短畫。第7、8欄以澁錄疊止形。首欄和字上方見紅色方塊，可讀。版心收口磨損。 左面：第4欄塊字有小紅方塊覆住左側，右部可辨。第7欄童字右側見紅方塊，「一巵」第二字待核，原圖頂部斜畫細短。末欄只印常，欄下淺灰為透印。版心外緣不全。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p17",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00017_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "7ab45ab43c72d64a05a3138f190150ac0d0893df153070ff981630cce6ca37ad",
+      "bytes": 260309,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "case-records",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "韓人患血症者好必服童便其餘亦動"
+            },
+            {
+              "text": "服童便是習俗然歟"
+            },
+            {
+              "text": "姜弘晋正使騎舡舡將也年七十有餘形"
+            },
+            {
+              "text": "瘦色白性急六月下旬口中爛發熱面"
+            },
+            {
+              "text": "赤大便祕無他苦弘晋曰今舟中服藥"
+            },
+            {
+              "text": "人多不自由煎煮云云因桔梗黃連黃"
+            },
+            {
+              "text": "芩連翹大黃各等分裏布令含之經兩"
+            },
+            {
+              "text": "三日全瘳"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "七",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "從事卜舡官人李青萬之病錄曰氣息喘"
+            },
+            {
+              "text": "促間有脅痛腹痛往或有四肢無力診"
+            },
+            {
+              "text": "之六脉沈滑形肥性沈重既七月朔日"
+            },
+            {
+              "text": "診察依歸期迫不與藥"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 4,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "八",
+              "column_anchor": 4,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "裏布",
+          "candidates": [],
+          "note": "第7欄「裏布」待核，該字上亠、下衣樣，目前依所見錄裏。第1欄韓字有朱筆及淡棕色斑。紙口磨損，版心外緣不全。"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "卜舡",
+          "candidates": [],
+          "note": "首欄「卜舡」、次欄「往或」待核。往右旁上有一短撇；如依古寫形也可能編作徃。歸字右有朱筆、依字左下見淡斑。版內左半有透印及淺圓斑，下緣近中縫有短破。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "往或",
+          "candidates": [],
+          "note": "首欄「卜舡」、次欄「往或」待核。往右旁上有一短撇；如依古寫形也可能編作徃。歸字右有朱筆、依字左下見淡斑。版內左半有透印及淺圓斑，下緣近中縫有短破。"
+        }
+      ],
+      "observations": "右面：第7欄「裏布」待核，該字上亠、下衣樣，目前依所見錄裏。第1欄韓字有朱筆及淡棕色斑。紙口磨損，版心外緣不全。 左面：首欄「卜舡」、次欄「往或」待核。往右旁上有一短撇；如依古寫形也可能編作徃。歸字右有朱筆、依字左下見淡斑。版內左半有透印及淺圓斑，下緣近中縫有短破。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "e00aaac4c94db7eb751fd917b81dfd6923cb2cd48197bb49342b50f79d53feea",
+      "bytes": 232501,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "questions-and-answers",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "八",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "疑問"
+            },
+            {
+              "text": "攝陽隱醫樋口道與淳叟奉書"
+            },
+            {
+              "text": "朝鮮國醫院官活菴趙國手"
+            },
+            {
+              "text": "雖未得接"
+            },
+            {
+              "text": "芝扃敢修尺素以候"
+            },
+            {
+              "text": "台範海程萬里"
+            },
+            {
+              "text": "動止佳勝正堪忻忭矣僕曾勤刀圭之"
+            },
+            {
+              "text": "業仍其所疑者今幸欲遇"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "九",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "活菴",
+          "candidates": [],
+          "note": "黑字正文與淺灰反面透印可區分。第3欄「活菴」、第5欄「芝扃」均待核，扃字中部見淡斑。第7欄「僕」原印小字仍在語句次序內。疑、芝、台字旁有朱筆。近中縫下緣見短破。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "芝扃",
+          "candidates": [],
+          "note": "黑字正文與淺灰反面透印可區分。第3欄「活菴」、第5欄「芝扃」均待核，扃字中部見淡斑。第7欄「僕」原印小字仍在語句次序內。疑、芝、台字旁有朱筆。近中縫下緣見短破。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "僕",
+          "candidates": [],
+          "note": "黑字正文與淺灰反面透印可區分。第3欄「活菴」、第5欄「芝扃」均待核，扃字中部見淡斑。第7欄「僕」原印小字仍在語句次序內。疑、芝、台字旁有朱筆。近中縫下緣見短破。"
+        }
+      ],
+      "observations": "右面：版框內只有反面的淺灰透印與紙斑，未見本面正文。版心紙口右側磨損。 左面：黑字正文與淺灰反面透印可區分。第3欄「活菴」、第5欄「芝扃」均待核，扃字中部見淡斑。第7欄「僕」原印小字仍在語句次序內。疑、芝、台字旁有朱筆。近中縫下緣見短破。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p19",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00019_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "f6a35d9483bc879fec606c2c3a63e17cefc9f0ad58c26272e9c5aae4d39023f3",
+      "bytes": 272733,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "questions-and-answers",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "明鑑正之疑問一件書先近年人參葉"
+            },
+            {
+              "text": "者從"
+            },
+            {
+              "text": "貴國來僕等未識其功能仍考中華書"
+            },
+            {
+              "text": "無所載僕顧非其可用者則不可採收"
+            },
+            {
+              "text": "也乎"
+            },
+            {
+              "text": "貴國之民採收而交易者當有其所堪"
+            },
+            {
+              "text": "用而然也因數試之治表症之効者多"
+            },
+            {
+              "text": "而補裡之効者劣矣以人參價貴而貧"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 8,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "九",
+              "column_anchor": 8,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "乏者不能多服僕爲渠用此既盡數斤"
+            },
+            {
+              "text": "也然以前賢未論之有所首鼠焉"
+            },
+            {
+              "text": "貴國醫家亦有用之乎幸憐僕愚悃勿"
+            },
+            {
+              "text": "吝"
+            },
+            {
+              "text": "啓諭伏祈　垂鑑"
+            },
+            {
+              "text": "奉覆攝陽樋口公案下"
+            },
+            {
+              "text": "未有合簪之契荷此投牘之　眷致意"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心殘題",
+              "text": "韓客治驗",
+              "column_anchor": 7,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心葉次",
+              "text": "十",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "僕",
+          "candidates": [],
+          "note": "第1欄明字旁有朱筆，鑑右半見淡斑。「僕」兩見皆以較小字印，仍在語句次序內。第8欄「裡」初錄依左衣右里，待核。近中縫下緣見短破，版心靠紙口一側磨損。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "裡",
+          "candidates": [],
+          "note": "第1欄明字旁有朱筆，鑑右半見淡斑。「僕」兩見皆以較小字印，仍在語句次序內。第8欄「裡」初錄依左衣右里，待核。近中縫下緣見短破，版心靠紙口一側磨損。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "奉覆",
+          "candidates": [],
+          "note": "正文第5欄與「奉覆」欄之間只有透印，無新增正文。第5欄「垂」及末欄「合簪」的簪有朱筆或色斑，仍可見部分筆畫，待核。第3欄「愚悃」待核。第1、3欄僕字較小，仍在語句次序內。啓、垂、合簪間及眷旁見紅筆；偏下有紙折，靠中縫下方有短破。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "垂",
+          "candidates": [],
+          "note": "正文第5欄與「奉覆」欄之間只有透印，無新增正文。第5欄「垂」及末欄「合簪」的簪有朱筆或色斑，仍可見部分筆畫，待核。第3欄「愚悃」待核。第1、3欄僕字較小，仍在語句次序內。啓、垂、合簪間及眷旁見紅筆；偏下有紙折，靠中縫下方有短破。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "合簪",
+          "candidates": [],
+          "note": "正文第5欄與「奉覆」欄之間只有透印，無新增正文。第5欄「垂」及末欄「合簪」的簪有朱筆或色斑，仍可見部分筆畫，待核。第3欄「愚悃」待核。第1、3欄僕字較小，仍在語句次序內。啓、垂、合簪間及眷旁見紅筆；偏下有紙折，靠中縫下方有短破。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "愚悃",
+          "candidates": [],
+          "note": "正文第5欄與「奉覆」欄之間只有透印，無新增正文。第5欄「垂」及末欄「合簪」的簪有朱筆或色斑，仍可見部分筆畫，待核。第3欄「愚悃」待核。第1、3欄僕字較小，仍在語句次序內。啓、垂、合簪間及眷旁見紅筆；偏下有紙折，靠中縫下方有短破。"
+        }
+      ],
+      "observations": "右面：第1欄明字旁有朱筆，鑑右半見淡斑。「僕」兩見皆以較小字印，仍在語句次序內。第8欄「裡」初錄依左衣右里，待核。近中縫下緣見短破，版心靠紙口一側磨損。 左面：正文第5欄與「奉覆」欄之間只有透印，無新增正文。第5欄「垂」及末欄「合簪」的簪有朱筆或色斑，仍可見部分筆畫，待核。第3欄「愚悃」待核。第1、3欄僕字較小，仍在語句次序內。啓、垂、合簪間及眷旁見紅筆；偏下有紙折，靠中縫下方有短破。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p20",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00020_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "file": "20.jpg",
+      "sha256": "537174ce77e1d67db4afacb3dfae8eba7080988e9bd0f41d367baa18efb94a85",
+      "bytes": 299307,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "questions-and-answers",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "丁寧再三披玩曷勝忻感　僕海陸負程"
+            },
+            {
+              "text": "得免顛沛之患是所幸也"
+            },
+            {
+              "text": "示諭謹悉參葉之用非古也初自數"
+            },
+            {
+              "text": "十年來弊邦鄉曲亦多用之僕亦嘗因"
+            },
+            {
+              "text": "俗用之而其味辛多甘小其氣溫而輕"
+            },
+            {
+              "text": "浮如產後感冒者假其辛甘而散之賴"
+            },
+            {
+              "text": "其參力而不致重虛感風者感寒者和"
+            },
+            {
+              "text": "用於解表之劑而有効焉至於補益之"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "方亦未敢試之凢補瀉在乎氣味辛甘"
+            },
+            {
+              "text": "輕飄之藥豈有補虛之功也然而以其"
+            },
+            {
+              "text": "有根液之上湊故酷猶肉桂之桂枝發"
+            },
+            {
+              "text": "中亦有補固不可比論於蘇葛之專"
+            },
+            {
+              "text": "於解表也其可用者產後發熱勞發感"
+            },
+            {
+              "text": "冒等症其不可用者虛損之病若不願"
+            },
+            {
+              "text": "其虛實一槩試之殆妄矣愚見如斯"
+            },
+            {
+              "text": "足下以爲如何萬萬可期歸路得接　清"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "負程",
+          "candidates": [],
+          "note": "版心「韓客治驗」，葉次字受翻邊遮擋。首欄「負程」、第六欄「賴」待核。"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "賴",
+          "candidates": [],
+          "note": "版心「韓客治驗」，葉次字受翻邊遮擋。首欄「負程」、第六欄「賴」待核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "勞發",
+          "candidates": [],
+          "note": "「發中」「勞發」「願」「一槩」待核；第八欄末「清」接下幅。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "願",
+          "candidates": [],
+          "note": "「發中」「勞發」「願」「一槩」待核；第八欄末「清」接下幅。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "一槩",
+          "candidates": [],
+          "note": "「發中」「勞發」「願」「一槩」待核；第八欄末「清」接下幅。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "清",
+          "candidates": [],
+          "note": "「發中」「勞發」「願」「一槩」待核；第八欄末「清」接下幅。"
+        }
+      ],
+      "observations": "右面：版心「韓客治驗」，葉次字受翻邊遮擋。首欄「負程」、第六欄「賴」待核。 左面：「發中」「勞發」「願」「一槩」待核；第八欄末「清」接下幅。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p21",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00021_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "file": "21.jpg",
+      "sha256": "a6f53a528be9ede8b21d01f8eaffea20cb2c266f19ac15f593550b000594019d",
+      "bytes": 261314,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "questions-and-answers",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "儀略此不具惟希統照"
+            },
+            {
+              "text": "趙崇壽活菴　拜"
+            },
+            {
+              "text": "僕氏樋口名淳叟字道與號生寧涙筆"
+            },
+            {
+              "text": "之醫也奉"
+            },
+            {
+              "text": "活菴趙君"
+            },
+            {
+              "text": "足下今隨"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "使臺來日東旅程往還　動止平安曷勝"
+            },
+            {
+              "text": "忻躍先呈疑問一條親蒙　慈敎感與"
+            },
+            {
+              "text": "謝竝至矣今日幸得接　丰儀僕有所"
+            },
+            {
+              "text": "曾疑欲今正之　博雅之士小兒科虎"
+            },
+            {
+              "text": "口三關法在諸書而經文無所考"
+            },
+            {
+              "text": "貴國亦用之否乞　敎諭"
+            },
+            {
+              "text": "活菴答"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "趙崇壽",
+          "candidates": [],
+          "note": "第二欄「趙崇壽」第三字旁及第三欄「寧」旁有朱色方記；灰色文字多為透頁。「涙筆」「統照」待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "寧",
+          "candidates": [],
+          "note": "第二欄「趙崇壽」第三字旁及第三欄「寧」旁有朱色方記；灰色文字多為透頁。「涙筆」「統照」待核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "涙筆",
+          "candidates": [],
+          "note": "第二欄「趙崇壽」第三字旁及第三欄「寧」旁有朱色方記；灰色文字多為透頁。「涙筆」「統照」待核。"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "統照",
+          "candidates": [],
+          "note": "第二欄「趙崇壽」第三字旁及第三欄「寧」旁有朱色方記；灰色文字多為透頁。「涙筆」「統照」待核。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "感與",
+          "candidates": [],
+          "note": "朱色標記見於第二、第三、第四欄之間。欄內「感與」「謝竝」「丰」待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "謝竝",
+          "candidates": [],
+          "note": "朱色標記見於第二、第三、第四欄之間。欄內「感與」「謝竝」「丰」待核。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "丰",
+          "candidates": [],
+          "note": "朱色標記見於第二、第三、第四欄之間。欄內「感與」「謝竝」「丰」待核。"
+        }
+      ],
+      "observations": "右面：第二欄「趙崇壽」第三字旁及第三欄「寧」旁有朱色方記；灰色文字多為透頁。「涙筆」「統照」待核。 左面：朱色標記見於第二、第三、第四欄之間。欄內「感與」「謝竝」「丰」待核。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p22",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00022_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "file": "22.jpg",
+      "sha256": "a51aab10802575d52882b933b3b4e9fa3c70c24d7cb0821702da757f49566872",
+      "bytes": 263438,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "questions-and-answers",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "小兒第二指"
+            },
+            {
+              "text": "第一節風關有脉見則病輕"
+            },
+            {
+              "text": "第二節氣關有脉見則病重尙可治"
+            },
+            {
+              "text": "第三節命關有脉見則必死不治"
+            },
+            {
+              "text": "見紅紋病輕　傷寒驚風外感輕病"
+            },
+            {
+              "text": "見靑紋病重　驚風中寒中惡重病"
+            },
+            {
+              "text": "見黑紋痾病勞症內傷極重死症"
+            },
+            {
+              "text": "大盖紅黃色紋見者病易安靑紫色紋"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "第二指末雙行小注",
+              "text": "男左／女右",
+              "column_anchor": 1,
+              "color": "unknown",
+              "lines": [
+                "男左",
+                "女右"
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "者病重紫黑紋色者死"
+            },
+            {
+              "text": "自風關紋出直至於命關者亦重必死"
+            },
+            {
+              "text": "然若紅黃紋者不死"
+            },
+            {
+              "text": "生寧"
+            },
+            {
+              "text": "問　貴國藥一貼分量如何"
+            },
+            {
+              "text": "活菴"
+            },
+            {
+              "text": "答壯牢者一貼重一兩一二錢作一貼"
+            },
+            {
+              "text": "虛弱者七八錢"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "痾病",
+          "candidates": [],
+          "note": "右頁葉邊含版心部分字；第七欄「痾病」待核。末欄接左面。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "牢",
+          "candidates": [],
+          "note": "左面書口紀葉二十三。尾欄「牢」待核。答者簽名分欄照錄。"
+        }
+      ],
+      "observations": "右面：右頁葉邊含版心部分字；第七欄「痾病」待核。末欄接左面。 左面：左面書口紀葉二十三。尾欄「牢」待核。答者簽名分欄照錄。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p23",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00023_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "file": "23.jpg",
+      "sha256": "8ce2ebd1fcc0d5d5a4b4c9cd66bd6bf2718c4c42ac30e11cb1762ef9f38dcc1a",
+      "bytes": 207626,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "questions-and-answers",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "生寧"
+            },
+            {
+              "text": "問煎煑水分量如何"
+            },
+            {
+              "text": "活菴"
+            },
+            {
+              "text": "答藥一兩重水一升煎至五合"
+            },
+            {
+              "text": "生寧"
+            },
+            {
+              "text": "問人參葉製法如何"
+            },
+            {
+              "text": "活菴"
+            },
+            {
+              "text": "答生用"
+            },
+            {
+              "text": "樋口道與藏板"
+            }
+          ],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右面刊尾。煎字右上有朱色方記。書口附葉次。「煑」按字形錄入。 左面：後襯無正面刊文，僅見輕微透字與下緣破損。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p24",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00024_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "file": "24.jpg",
+      "sha256": "775f7157b61f51e6b7bdb774fdd5deb0f9597da988e87af8c1ef88acf2a589a0",
+      "bytes": 184379,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "斜墨記",
+              "text": "二□藏持入本　七百五十 □",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "近墨記形",
+              "text": "十川",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "斜墨記",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。"
+        }
+      ],
+      "observations": "右面：後襯右面有斜書字樣與粗墨筆，辨識未定；框與大字為前面墨色透頁。 左面：後封裡補紙、下緣破損，無正面刊文。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001686/canvas/p25",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001686%2FRB00001686_00025_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "file": "25.jpg",
+      "sha256": "577136a0cb979159c27d9a18c43d7cdcd361256c5604ac84d0f97c9460657dd9",
+      "bytes": 171659,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "binding-or-copy-annotation",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：後封，無可辨正文。下角有片狀破裂與線裝。"
+    }
+  ]
+}
